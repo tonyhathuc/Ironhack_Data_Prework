@@ -1,2 +1,2 @@
 # Ironhack_Data_Prework
-Prework exercises for IIronhack
+Prework exercises for Ironhack
